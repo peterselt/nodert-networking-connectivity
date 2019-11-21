@@ -107,7 +107,7 @@
     "url": "git://github.com/NodeRT/NodeRT.git"
   },
   "scripts": {
-    "install": "node-gyp rebuild --msvs_version=2017"
+    "rebuild": "node-gyp rebuild --msvs_version=2017"
   },
   "version": "0.4.4"
 }
