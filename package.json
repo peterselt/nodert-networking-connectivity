@@ -23,7 +23,6 @@
   },
   "deprecated": false,
   "description": "Use the Windows.Networking.Connectivity UWP API directly from Node.js",
-  "gypfile": true,
   "homepage": "https://github.com/NodeRT/NodeRT",
   "keywords": [
     "Windows.Networking.Connectivity",
