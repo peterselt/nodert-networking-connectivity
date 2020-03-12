@@ -55,7 +55,15 @@
               "%ProgramFiles(x86)%/Microsoft Visual Studio/2017/Community/Common7/IDE/VC/vcpackages",
               "%ProgramFiles(x86)%/Microsoft Visual Studio/2019/Community/Common7/IDE/VC/vcpackages",
               "%ProgramFiles(x86)%/Microsoft Visual Studio/2017/Community/VC/Tools/MSVC/14.13.26128/lib/x86/store/references",
-              "%ProgramFiles(x86)%/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.22.27905/lib/x86/store/references"
+              "%ProgramFiles(x86)%/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.22.27905/lib/x86/store/references",
+              "%ProgramFiles(x86)%/Microsoft Visual Studio/2017/Professional/Common7/IDE/VC/vcpackages",
+              "%ProgramFiles(x86)%/Microsoft Visual Studio/2019/Professional/Common7/IDE/VC/vcpackages",
+              "%ProgramFiles(x86)%/Microsoft Visual Studio/2017/Professional/VC/Tools/MSVC/14.13.26128/lib/x86/store/references",
+              "%ProgramFiles(x86)%/Microsoft Visual Studio/2019/Professional/VC/Tools/MSVC/14.22.27905/lib/x86/store/references",
+              "%ProgramFiles(x86)%/Microsoft Visual Studio/2017/Enterprise/Common7/IDE/VC/vcpackages",
+              "%ProgramFiles(x86)%/Microsoft Visual Studio/2019/Enterprise/Common7/IDE/VC/vcpackages",
+              "%ProgramFiles(x86)%/Microsoft Visual Studio/2017/Enterprise/VC/Tools/MSVC/14.13.26128/lib/x86/store/references",
+              "%ProgramFiles(x86)%/Microsoft Visual Studio/2019/Enterprise/VC/Tools/MSVC/14.22.27905/lib/x86/store/references"
             ]
           }
         }
