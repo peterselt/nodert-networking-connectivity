@@ -73,9 +73,9 @@
     "v8_use_siphash": 1,
     "v8_use_snapshot": 1,
     "want_separate_host_toolset": 0,
-    "nodedir": "C:\\Users\\tomec\\AppData\\Local\\node-gyp\\Cache\\8.0.3",
+    "nodedir": "C:\\Users\\tomec\\AppData\\Local\\node-gyp\\Cache\\8.1.1",
     "standalone_static_library": 1,
     "msbuild_path": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\MSBuild\\Current\\Bin\\MSBuild.exe",
-    "target": "8.0.3"
+    "target": "8.1.1"
   }
 }
