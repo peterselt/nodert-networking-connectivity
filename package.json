@@ -82,7 +82,7 @@
   },
   "scripts": {
     "install": "echo \"Skipping post install script\"",
-    "rebuild": "node-gyp rebuild --msvs_version=2017"
+    "rebuild": "node-gyp rebuild --target=%ELECTRON_VERSION% --arch=x64 --dist-url=https://atom.io/download/electron --msvs_version=2017"
   },
   "version": "0.4.4"
 }
