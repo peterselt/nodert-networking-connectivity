@@ -20,6 +20,7 @@
     "force_dynamic_crt": 0,
     "host_arch": "x64",
     "icu_data_in": "..\\..\\deps/icu-small\\source/data/in\\icudt64l.dat",
+    "icu_default_data": "",
     "icu_endianness": "l",
     "icu_gyp_path": "tools/icu/icu-generic.gyp",
     "icu_locales": "en,root",
@@ -30,7 +31,6 @@
     "napi_build_version": "5",
     "nasm_version": "2.14",
     "node_byteorder": "little",
-    "node_code_cache": "yes",
     "node_debug_lib": "false",
     "node_enable_d8": "false",
     "node_install_npm": "true",
@@ -53,6 +53,7 @@
     "node_use_etw": "true",
     "node_use_large_pages": "false",
     "node_use_large_pages_script_lld": "false",
+    "node_use_node_code_cache": "true",
     "node_use_node_snapshot": "true",
     "node_use_openssl": "true",
     "node_use_v8_platform": "true",
@@ -73,9 +74,9 @@
     "v8_use_siphash": 1,
     "v8_use_snapshot": 1,
     "want_separate_host_toolset": 0,
-    "nodedir": "C:\\Users\\tomec\\AppData\\Local\\node-gyp\\Cache\\7.1.1",
+    "nodedir": "C:\\Users\\pselte\\AppData\\Local\\node-gyp\\Cache\\9.1.0",
     "standalone_static_library": 1,
     "msbuild_path": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\BuildTools\\MSBuild\\15.0\\Bin\\MSBuild.exe",
-    "target": "7.1.1"
+    "target": "9.1.0"
   }
 }
